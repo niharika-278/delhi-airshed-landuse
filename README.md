@@ -2,7 +2,7 @@
 
 ### 
 
-##### **📌 Project Overview**
+##### **Project Overview**
 
 
 
@@ -22,7 +22,7 @@ The workflow integrates spatial reasoning, raster processing, and dataset prepar
 
 
 
-##### **🗂️ Dataset Used**
+##### **Dataset Used**
 
 
 
@@ -38,7 +38,7 @@ Gridding CRS: **EPSG:32644**
 
 
 
-##### **🧠 Pipeline Summary**
+##### **Pipeline Summary**
 
 ###### 
 
@@ -60,7 +60,7 @@ Gridding CRS: **EPSG:32644**
 
 
 
-##### **🛠️ Tech Stack**
+##### **Tech Stack**
 
 
 
@@ -86,5 +86,5 @@ Gridding CRS: **EPSG:32644**
 
 
 
-\- ChatGPT (OpenAI) – assistance with basic structuring, debugging, and README documentation.
+\- ChatGPT (OpenAI) – assistance with basic structuring and debugging.
 
