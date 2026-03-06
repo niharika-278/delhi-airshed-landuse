@@ -2,7 +2,7 @@
 
 
 
-\##📌Project Overview
+##### \##📌\*\*Project Overview \*\* 
 
 
 
@@ -14,11 +14,11 @@ The workflow integrates spatial reasoning, raster processing, and dataset prepar
 
 
 
-&nbsp;Model training (CNN) is planned but not implemented yet.
+ Model training (CNN) is planned but not implemented yet.
 
 
 
-\##🗂️Dataset used:
+##### \##🗂️\*\*Dataset used\*\*
 
 
 
@@ -28,7 +28,7 @@ Gridding CRS: **EPSG:32644**
 
 
 
-\##🧠Pipeline Summary
+##### \##🧠\*\*Pipeline Summary\*\*
 
 
 
@@ -56,7 +56,7 @@ Dataset split for supervised learning
 
 
 
-\##🛠️Tech Stack
+##### \##🛠️\*\*Tech Stack\*\*
 
 
 
@@ -84,9 +84,9 @@ scikit-learn
 
 
 
-\## AI Tools Used
+###### \## AI Tools Used
 
 
 
-&nbsp;ChatGPT (Open AI) – assistance with basic structuring, debugging, and README structuring.
+ ChatGPT (Open AI) – assistance with basic structuring, debugging, and README structuring.
 
