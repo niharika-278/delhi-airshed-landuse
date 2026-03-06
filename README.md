@@ -26,11 +26,11 @@
 
 
 
-###### Delhi Airshed Sentinel-2 RGB and Landcover \[Link] (EPSG:4326)
+###### Delhi Airshed Sentinel-2 RGB and Landcover \[[Link](https://www.kaggle.com/datasets/rishabhsnip/earth-observation-delhi-airshed)] **(EPSG:4326)**
 
 ###### 
 
-###### Gridding CRS: \*\*EPSG:32644\*\*
+###### Gridding CRS: **EPSG:32644**
 
 
 
