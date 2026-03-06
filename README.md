@@ -1,92 +1,90 @@
-# Delhi-Airshed-Landuse-Classification
+# \# Delhi Airshed Landuse Classification
 
+# 
 
+# \## 📌 Project Overview
 
-##### \##📌\*\*Project Overview \*\* 
+# 
 
+# This project builds a geospatial pipeline to analyze land-use patterns over the Delhi Airshed using Sentinel-2 satellite imagery and ESA WorldCover 2021 data.
 
+# 
 
-This project builds a geospatial pipeline to analyze land-use patterns over the Delhi Airshed using Sentinel-2 satellite imagery and ESA WorldCover 2021 data.
+# The workflow integrates spatial reasoning, raster processing, and dataset preparation for supervised land-use classification.
 
+# 
 
+# Model training (CNN) is planned but not implemented yet.
 
-The workflow integrates spatial reasoning, raster processing, and dataset preparation for supervised land-use classification.
+# 
 
+# ---
 
+# 
 
- Model training (CNN) is planned but not implemented yet.
+# \## 🗂️ Dataset Used
 
+# 
 
+# Delhi Airshed Sentinel-2 RGB and Landcover \[Link] (EPSG:4326)
 
-##### \##🗂️\*\*Dataset used\*\*
+# 
 
+# Gridding CRS: \*\*EPSG:32644\*\*
 
+# 
 
-Delhi Airshed Sentinel-2 RGB and Landcover \[[Link](https://www.kaggle.com/datasets/rishabhsnip/earth-observation-delhi-airshed)] (**EPSG:4326**)
+# ---
 
-Gridding CRS: **EPSG:32644**
+# 
 
+# \## 🧠 Pipeline Summary
 
+# 
 
-##### \##🧠\*\*Pipeline Summary\*\*
+# \- CRS transformation to EPSG:32644  
 
+# \- Uniform spatial grid generation  
 
+# \- Point-in-polygon filtering  
 
-CRS transformation to EPSG:32644
+# \- Raster patch extraction  
 
+# \- Mode-based label assignment  
 
+# \- Dataset split for supervised learning  
 
-Uniform spatial grid generation
+# 
 
+# ---
 
+# 
 
-Point-in-polygon filtering
+# \## 🛠️ Tech Stack
 
+# 
 
+# \- Python  
 
-Raster patch extraction
+# \- GeoPandas  
 
+# \- Rasterio  
 
+# \- NumPy  
 
-Mode-based label assignment
+# \- Matplotlib  
 
+# \- scikit-learn  
 
+# 
 
-Dataset split for supervised learning
+# ---
 
+# 
 
+# \## AI Tools Used
 
-##### \##🛠️\*\*Tech Stack\*\*
+# 
 
-
-
-Python
-
-
-
-GeoPandas
-
-
-
-Rasterio
-
-
-
-NumPy
-
-
-
-Matplotlib
-
-
-
-scikit-learn
-
-
-
-###### \## AI Tools Used
-
-
-
- ChatGPT (Open AI) – assistance with basic structuring, debugging, and README structuring.
+# \- ChatGPT (OpenAI) – assistance with basic structuring, debugging, and README documentation.
 
